@@ -1,0 +1,117 @@
+/* GovWell — GT Standard webfont declarations
+ * Single CSS file referencing all 14 weights/styles of GT Standard,
+ * served from Webflow's CDN. Host this file at a stable URL and
+ * reference it from anywhere that needs the GovWell typography.
+ */
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7ce00288b397a8d640_GT-Standard-L-Standard-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c357a563baeb73c20_GT-Standard-L-Standard-Light-italic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7ca1668c4f8f60229b_GT-Standard-L-Standard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c0c4981150fb99e0f_GT-Standard-L-Standard-Regular-italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c9297ad6fb585ae68_GT-Standard-L-Standard-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c2e666726a16efa54_GT-Standard-L-Standard-Medium-italic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c87e8f37a4f2a9cc6_GT-Standard-L-Standard-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7cb3392e9f2dd13e18_GT-Standard-L-Standard-Semibold-italic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c7efbc88720b7806a_GT-Standard-L-Standard-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c71f7389e9d304639_GT-Standard-L-Standard-Bold-italic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c5ff427d0ee6801a0_GT-Standard-L-Standard-Heavy.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7ca49f414089ef999b_GT-Standard-L-Standard-Heavy-italic.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c6060bd0918f9bdec_GT-Standard-L-Standard-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gt Standard';
+  src: url('https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6a0e3c7c805f442292a6564d_GT-Standard-L-Standard-Black-italic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
